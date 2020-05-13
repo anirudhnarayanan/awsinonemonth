@@ -9,13 +9,7 @@ function createButton(context, func) {
       "AWS Encryption","ECS and Fargate","Step Functions and SWF","Elastic Transcoders","AWS Glue","OpsWorks","WorkSpaces","EMR","AppSync"];
 
       var topicinfo = [
-          {"header":"Resources Needed and Introduction"},{},{},{},
-          {},{},{},{},
-          {},{},{},{},
-          {},{},{},{},
-          {},{},{},{},
-          {},{},{},{},
-          {},{},{},{},
+        
 
       ];
 
